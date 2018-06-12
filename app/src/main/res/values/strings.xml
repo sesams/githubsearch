@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GithubSearch</string>
+    <string name="common_search">검색어를 입력하세요.</string>
+</resources>
